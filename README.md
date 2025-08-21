@@ -14,5 +14,4 @@
 
 # LIVE DEMO
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
-
+https://github.com/user-attachments/assets/6223d3a7-19a6-4d32-93ee-19bfa51f551d
