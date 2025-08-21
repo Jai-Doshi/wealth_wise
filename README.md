@@ -14,5 +14,5 @@
 
 # LIVE DEMO
 
-[![Watch the video](https://github.com/user-attachments/assets/ad9f0511-45d4-4d47-8ff7-a4ec11e2fc8b)]([https://youtu.be/vt5fpE0bzSY](https://github.com/Jai-Doshi/wealth_wise/blob/main/Wealth%20Wise%20App%20DEMO.mp4
-))
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
